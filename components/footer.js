@@ -4,7 +4,7 @@ export default function Footer() {
       <footer>
         <div className="footer__content">
           <div className="footer__left">
-            <a href="https://twitter.com/pmndrs" target="_blank" rel="noopener">
+            <a href="https://twitter.com/barbudour" target="_blank" rel="noopener">
               <div>
                 <svg width="15" height="15" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <path fill="#fff" d="M0 0h15v15H0z" />
@@ -13,14 +13,14 @@ export default function Footer() {
             </a>
           </div>
           <div className="footer__center">
-            <a className="link" href="https://pmnd.rs/twitter">
+            <a className="link" href="https://t.me/barbudour">
+              Telegram
+            </a>
+            <a className="link" href="https://instagram.com/barbudour">
+              Instagram
+            </a>
+            <a className="link" href="https://twitter.com/barbudour">
               Twitter
-            </a>
-            <a className="link" href="https://pmnd.rs/github">
-              GitHub
-            </a>
-            <a className="link" href="https://pmnd.rs/discord">
-              Discord
             </a>
           </div>
           <div className="footer__right">
